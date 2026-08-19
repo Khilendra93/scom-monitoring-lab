@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.vscode/
+*-output.txt
